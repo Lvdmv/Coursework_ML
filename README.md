@@ -10,7 +10,7 @@
 <br>
 &nbsp;&nbsp;&nbsp;telecom_users.csv <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; # customerID – id клиента<br>
+&nbsp;&nbsp;&nbsp;&nbsp; customerID – id клиента<br>
 &nbsp;&nbsp;&nbsp;&nbsp; gender – пол клиента (male/female)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; SeniorCitizen – яляется ли клиент пенсионером (1, 0)<br>
 &nbsp;&nbsp;&nbsp;&nbsp; Partner – состоит ли клиент в браке (Yes, No)<br>
